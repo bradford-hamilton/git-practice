@@ -1,0 +1,4 @@
+6e8c667 was Bradford Lamson-Scribner, 21 minutes ago, message: fourth change
+df0aa5a was Bradford Lamson-Scribner, 22 minutes ago, message: third change
+2bfdfe6 was Bradford Lamson-Scribner, 45 minutes ago, message: Add text to file
+f54d901 was Bradford Lamson-Scribner, 69 minutes ago, message: Add first commit
